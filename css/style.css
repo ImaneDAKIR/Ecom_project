@@ -1,0 +1,218 @@
+body {
+ margin:0px;
+padding:0px; } 
+#div1 {
+    width: 100%;
+    height: 120px;
+    background-color: black;
+    position: sticky;
+}
+#head {
+    width: 25%;
+    height: 100%;
+    float: left;
+}
+#nav {
+    width: 35%;
+    height: 100%;
+    float: left;
+}
+#cont {
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    width: 15%;
+    height: 100%;
+    
+    
+    float: left;
+    padding-left: 42px;
+    background-image: url(https://www.icone-png.com/png/24/24003.png);
+    background-repeat: no-repeat;
+    background-position: left 4px;
+    background-size: 29px;
+    background-color: transparent;
+    text-align: left;
+    color:white;
+   
+}
+#panier{
+    color:white;
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    float: left;
+    padding-left: 42px;
+    background-image: url(https://icones.pro/wp-content/uploads/2021/05/icone-de-panier-orange.png);
+    background-repeat: no-repeat;
+    background-position: left 4px;
+    background-size: 29px;
+    background-color: transparent;
+    text-align: left;
+}
+
+#taw {
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    float: left;
+    padding-left: 42px;
+    background-image: url(https://image.flaticon.com/icons/png/512/324/324630.png);
+    background-repeat: no-repeat;
+    background-position: left 4px;
+    background-size: 29px;
+    background-color: transparent;
+    text-align: left;}
+#div2 {
+    width: 100%;
+    height: 60px;
+    border: 1px solid gray;
+    background-color: rgba(224, 146, 0, 0.897);
+}
+ #div3 {
+    width: 100%;
+    height: 450px;
+    border: 1px solid gray;
+   
+}
+.img2{
+    width: 1365px;
+    height: 450px;
+    background-repeat: no-repeat;
+}
+.logo{
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+}
+.rech{
+    margin-top: 35px;
+    margin-bottom: 25px;
+    margin-left: 20px;
+    /* margin: 8px 20px; */
+    border-top-left-radius: 20px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    border-bottom-left-radius: 20px;
+    border:none;
+    
+    outline:none;
+    padding-left: 10px;
+    padding-right: 220px;
+    float: left;
+}
+.but{
+    margin-top: 35px;
+    margin-bottom: 25px;
+    
+    top: 0;
+    width: 48px;
+    height: 40px;
+    background-image: url(http://assets.stickpng.com/images/59cfc4d2d3b1936210a5ddc7.png);
+    background-repeat: no-repeat;
+    background-position: center 11px;
+    background-size: 18px;
+    background-color: #df711a;
+    border: 0px;
+    right: -2px;
+    margin-left: -20px;
+    
+    /* -webkit-border-radius: 0px 25px 25px 0px;
+    -moz-border-radius: 0px 25px 25px 0px;
+    -ms-border-radius: 0px 25px 25px 0px;
+    -o-border-radius: 0px 25px 25px 0px; */
+    border-radius: 0px 25px 25px 0px;
+}
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 10px;
+    overflow: hidden;
+    
+    /* text-align: center;
+    display:flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+  position: sticky;
+  top: 0; */
+}
+#div2{
+    display: flex;
+  flex-wrap:wrap;
+  border:none;
+}
+p{
+    font-weight: bold;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 17px;
+     margin-right: 40px;
+     cursor: pointer;
+     
+}
+
+.img3{
+    width: 580px; 
+    height:300px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+.img4{
+    width: 580px; 
+    height:300px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+
+#div4{
+    float: left;
+}
+h2{
+    text-align: left;
+    border: medium none;
+    width: 100%;
+    margin: 0 auto 14px;
+    padding: 0px 0px 0px;
+    color: #222222;
+    position: relative;
+    font: 600 18px/26px 'Heebo', sans-serif;
+    text-transform: uppercase !important;
+    letter-spacing: 0.4px;
+    border-bottom: 1px solid #eaeaea;
+    
+}
+.title{
+    font-size: 14px;
+    text-align: center;
+    font-weight: 400;
+    text-transform: initial;
+}
+card-body{
+    text-overflow: ellipsis;
+    overflow: hidden;
+    width: 100%;
+    white-space: nowrap;
+}
+card-header{
+    text-align: left;
+    padding: 15px 15px;
+    border-top: 1px solid #e5e5e5;
+    display: flex;
+  flex-wrap:wrap;
+  justify-content: space-between;
+}
+.cards{
+    display:flex;
+  flex-wrap:wrap;
+}
+.cards .card{
+    margin-right: 20px;
+    cursor:pointer;
+  }
+.img5{
+    width: 160px; 
+    height:190px;
+    background-repeat: no-repeat;
+    margin: 20px;
+}
+    
